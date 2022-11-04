@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660749348160",
+    "project_id": "libertify-dev",
+    "storage_bucket": "libertify-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660749348160:android:a38649385a68563f9f1ea5",
+        "android_client_info": {
+          "package_name": "com.libertify.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660749348160-nvakucudv6e3l6i2q46krv3f6bidfgtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2BIFPFNClkl3QyefmIC2sd5zO9rkvwQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660749348160-nvakucudv6e3l6i2q46krv3f6bidfgtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
